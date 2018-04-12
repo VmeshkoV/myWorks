@@ -1,3 +1,2 @@
-# Vladimir Meshko
-Front-end developer
+# Vladimir Meshkov / Front-end developer
 Repository for my work
